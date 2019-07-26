@@ -1816,7 +1816,10 @@ input, select, textarea {
 			padding: 0;
 		}
 
+
+
 /* Button */
+
 
 	input[type="submit"],
 	input[type="reset"],
@@ -2789,6 +2792,7 @@ input, select, textarea {
 /* Contact */
 
 	ul.contact {
+		text-align: center;
 		list-style: none;
 		padding: 0;
 	}
