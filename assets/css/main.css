@@ -1816,6 +1816,18 @@ input, select, textarea {
 			padding: 0;
 		}
 
+		.technologies-used {
+
+			/* color: #ffffff !important; */
+
+			font-size: 0.7em;
+
+			letter-spacing: 0.25em;
+			outline: 0;
+			position: relative;
+			text-decoration: none !important;
+			text-transform: uppercase;
+		}
 
 
 /* Button */
