@@ -1,4 +1,8 @@
-(function($) {
+jQuery.htmlPrefilter = function( html ) {
+	return html;
+};
+
+(function ($) {
 
 	/**
 	 * Generate an indented list of links from a nav. Meant for use with panel().
@@ -585,3 +589,4 @@
 	};
 
 })(jQuery);
+
